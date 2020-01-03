@@ -12,8 +12,11 @@ someone else edit pushed this to master
 added feature 1
 added feature 1
 added feature 2
+<<<<<<< HEAD
 
 I'm user 1 I've update to master branch
 adding more line
 adding more changes
 and moreand so on...
+=======
+>>>>>>> e2b26f18cb848bc14ae27c3178576eec88da3c36
